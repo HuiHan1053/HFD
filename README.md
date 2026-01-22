@@ -1,2 +1,2 @@
 # HFD
-We will release the source code upon acceptance.
+We'll soon update the code and data.
