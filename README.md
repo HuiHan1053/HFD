@@ -4,7 +4,6 @@ We'll soon update the code and data.
 # Project 
 
 PyTorch code for noisy-label learning with **two networks, **GMM-based clean/noisy split**, and optional **OOD filtering**.  
-PyTorch 噪声标签学习代码：**双网络**、**GMM 划分干净/噪声**，可选 **OOD 过滤**。
 
 ## Structure 
 
